@@ -1,0 +1,9 @@
+[{
+  "model": "uni_image.users_userprofile",
+  "pk": 1,
+  "fields": {
+    "username": 18374775592,
+    "password": "admin123",
+    "mobile": "18374775592"
+  }
+}]
